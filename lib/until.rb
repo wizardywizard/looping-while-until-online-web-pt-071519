@@ -1,6 +1,7 @@
 def using_until
   levitation_force = 6
-  untill
+  until levitation_force == 10
+  
     
 end
 
